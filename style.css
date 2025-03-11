@@ -1,0 +1,29 @@
+body{
+    background-color: #FDDE54;
+    margin: 0;
+}
+.titlecard{
+    display: flex;
+    
+
+}
+.nav_bar{
+    background-color: #7f0404;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+}
+.options{
+    color:white;
+    justify-content: end;
+    gap: 15px;
+}
+
+.options a {
+    color:white;
+    text-align: none;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 8px 12px;
+    transition: color 0.3 s ease;
+}
